@@ -10539,7 +10539,7 @@ tabSetup:
   - - - bracket
       - defaultwarpto
     - - name
-      - <color=0xFFFFBB33>!✈EXIT✈!</color>
+      - <color=0xFFFFBB33>✈EXIT✈</color>
     - - overview
       - WARP THE FUCK OUT!
 userSettings:
