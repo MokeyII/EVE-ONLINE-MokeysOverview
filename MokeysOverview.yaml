@@ -2487,9 +2487,9 @@ presets:
         - 1929
         - 1956
 shipLabelOrder:
-- pilot name
 - ship type
 - alliance
+- pilot name
 - corporation
 - null
 shipLabels:
@@ -2497,16 +2497,16 @@ shipLabels:
   - - - post
       - </b><color>
     - - pre
-      - '<color=0xFFFF0033>INFO:     </color><color=0xFF00FF00><b>'
+      - <color=0xFF00FF00><b>
     - - state
       - 1
     - - type
       - null
 - - alliance
   - - - post
-      - ' </color></b><br>'
+      - '] </color></b><br>'
     - - pre
-      - '<color=0xFFFF0033><b>ALLIANCE: </color><color=0xFFFFBB33>'
+      - '<color=0xFFFFFFFF>['
     - - state
       - 1
     - - type
@@ -2515,25 +2515,25 @@ shipLabels:
   - - - post
       - </color></b><br>
     - - pre
-      - <color=0xFFFF0033><b>CORP:</color>    <color=0xFFFFBB33>
+      - <color=0xFFFFFFFF>
     - - state
       - 1
     - - type
       - corporation
 - - pilot name
   - - - post
-      - </color></b><br>
+      - </color>
     - - pre
-      - <color=0xFFFF0033><b>PILOT:</color>   <color=0xFFFFBB33>
+      -<color=0xFFFFBB33>
     - - state
       - 1
     - - type
       - pilot name
 - - ship type
   - - - post
-      - </color></b><br>
+      - </color></u></b>
     - - pre
-      - <color=0xFFFF0033><b>SHIP:</color>    <color=0xFFFFBB33>
+      -<b><u><color=0xFFFFBB33>
     - - state
       - 1
     - - type
