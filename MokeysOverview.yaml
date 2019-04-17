@@ -2608,14 +2608,14 @@ tabSetup:
   - - - bracket
       - ❏ brackets -  -  - all
     - - name
-      - <color=0xFFFF4444>♞ENEMIES♞</color>
+      - <color=0xFFFF4444>࿇ENEMIES࿇</color>
     - - overview
       - ♞ Enemies
 - - 2
   - - - bracket
       - ❏ brackets -  -  - all
     - - name
-      - <color=0xFF99CC00>♞TACTICAL♞</color>
+      - <color=0xFF99CC00>♞Fighters♞</color>
     - - overview
       - ♞ Tactical - Fighters - Drones
 - - 3
@@ -2629,14 +2629,14 @@ tabSetup:
   - - - bracket
       - null
     - - name
-      - <color=0xFF44C6E5>★MINING★</color>
+      - <color=0xFF44C6E5>֎MINING֎</color>
     - - overview
       - Mining
 - - 5
   - - - bracket
       - ❏ brackets -  -  - all
     - - name
-      - <color=0xFF33B5E5>★OTHER★</color>
+      - <color=0xFF33B5E5>★Caps★</color>
     - - overview
       - ✪ Extra - MIssions - Ratting - ETC
 - - 6
